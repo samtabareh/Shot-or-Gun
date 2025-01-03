@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "Class",
+        "class"
+    ],
+    "lövelauncher.overwrite": true,
+    "lövelauncher.saveAllOnLaunch": true,
+    "lövelauncher.useConsoleSubsystem": true
+}
